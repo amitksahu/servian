@@ -1,0 +1,1 @@
+public.ecr.aws/l4h0b1d3/aks:latest
